@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1062px" height="434px" viewBox="0 0 1062 434" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>text</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Quiz-2" transform="translate(-192.000000, -298.000000)">
+            <g id="text" transform="translate(68.000000, 298.000000)">
+                <path d="M433.5,0.545701374 L433.5,426.538553" id="Line-3" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M891.5,1.55377297 L891.5,432.537987" id="Line-3" stroke="#979797" stroke-linecap="square"></path>
+                <text id="SKIN-TONE" font-family="CenturyGothicProGrk-Bold, Century Gothic Pro Grk" font-size="24" font-weight="bold" fill="#000000">
+                    <tspan x="123.98" y="18">SKIN TONE</tspan>
+                </text>
+                <text id="SKIN-UNDERTONE" font-family="CenturyGothicProGrk-Bold, Century Gothic Pro Grk" font-size="24" font-weight="bold" fill="#000000">
+                    <tspan x="571.82" y="18">SKIN UNDERTONE</tspan>
+                </text>
+                <text id="SKIN-TYPE" font-family="CenturyGothicProGrk-Bold, Century Gothic Pro Grk" font-size="24" font-weight="bold" fill="#000000">
+                    <tspan x="1077.78" y="19">SKIN TYPE</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
